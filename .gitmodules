@@ -46,3 +46,6 @@
 [submodule "aragon/concierge"]
 	path = aragon/concierge
 	url = git@github.com:aragon/concierge.git
+[submodule "aragon/ppf"]
+	path = aragon/ppf
+	url = git@github.com:aragon/ppf.git
