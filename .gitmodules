@@ -7,3 +7,6 @@
 [submodule "aragon/aragon-apps"]
 	path = aragon/aragon-apps
 	url = git@github.com:aragon/aragon-apps.git
+[submodule "aragon/staking"]
+	path = aragon/staking
+	url = git@github.com:aragon/staking.git
