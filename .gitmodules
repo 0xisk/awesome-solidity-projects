@@ -10,3 +10,6 @@
 [submodule "aragon/staking"]
 	path = aragon/staking
 	url = git@github.com:aragon/staking.git
+[submodule "aragon/aragon-network-token"]
+	path = aragon/aragon-network-token
+	url = git@github.com:aragon/aragon-network-token.git
