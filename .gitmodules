@@ -34,3 +34,6 @@
 [submodule "aragon/aragon-court"]
 	path = aragon/aragon-court
 	url = git@github.com:aragon/aragon-court.git
+[submodule "aragon/apm"]
+	path = aragon/apm
+	url = git@github.com:aragon/apm.git
