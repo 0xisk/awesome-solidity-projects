@@ -1,3 +1,6 @@
 [submodule "aragon/govern"]
 	path = aragon/govern
 	url = git@github.com:aragon/govern.git
+[submodule "aragon/court-precedence-campaign"]
+	path = aragon/court-precedence-campaign
+	url = git@github.com:aragon/court-precedence-campaign.git
