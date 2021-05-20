@@ -19,3 +19,6 @@
 [submodule "aragon/evm-storage-proofs"]
 	path = aragon/evm-storage-proofs
 	url = git@github.com:aragon/evm-storage-proofs.git
+[submodule "aragon/aragonOS"]
+	path = aragon/aragonOS
+	url = git@github.com:aragon/aragonOS.git
