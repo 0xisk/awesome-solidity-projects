@@ -52,3 +52,6 @@
 [submodule "aragon/svrp"]
 	path = aragon/svrp
 	url = git@github.com:aragon/svrp.git
+[submodule "aragon/signature-registry"]
+	path = aragon/signature-registry
+	url = git@github.com:aragon/signature-registry.git
