@@ -37,3 +37,6 @@
 [submodule "aragon/apm"]
 	path = aragon/apm
 	url = git@github.com:aragon/apm.git
+[submodule "aragon/aragon-id"]
+	path = aragon/aragon-id
+	url = git@github.com:aragon/aragon-id.git
