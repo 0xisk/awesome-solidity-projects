@@ -4,3 +4,6 @@
 [submodule "aragon/court-precedence-campaign"]
 	path = aragon/court-precedence-campaign
 	url = git@github.com:aragon/court-precedence-campaign.git
+[submodule "aragon/aragon-apps"]
+	path = aragon/aragon-apps
+	url = git@github.com:aragon/aragon-apps.git
