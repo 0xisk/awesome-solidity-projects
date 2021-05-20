@@ -43,3 +43,6 @@
 [submodule "aragon/minime"]
 	path = aragon/minime
 	url = git@github.com:aragon/minime.git
+[submodule "aragon/concierge"]
+	path = aragon/concierge
+	url = git@github.com:aragon/concierge.git
