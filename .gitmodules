@@ -49,3 +49,6 @@
 [submodule "aragon/ppf"]
 	path = aragon/ppf
 	url = git@github.com:aragon/ppf.git
+[submodule "aragon/svrp"]
+	path = aragon/svrp
+	url = git@github.com:aragon/svrp.git
