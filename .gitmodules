@@ -1,0 +1,3 @@
+[submodule "aragon/govern"]
+	path = aragon/govern
+	url = git@github.com:aragon/govern.git
