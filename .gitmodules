@@ -13,3 +13,6 @@
 [submodule "aragon/aragon-network-token"]
 	path = aragon/aragon-network-token
 	url = git@github.com:aragon/aragon-network-token.git
+[submodule "aragon/buidler-aragon"]
+	path = aragon/buidler-aragon
+	url = git@github.com:aragon/buidler-aragon.git
