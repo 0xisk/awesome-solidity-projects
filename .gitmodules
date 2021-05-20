@@ -16,3 +16,6 @@
 [submodule "aragon/buidler-aragon"]
 	path = aragon/buidler-aragon
 	url = git@github.com:aragon/buidler-aragon.git
+[submodule "aragon/evm-storage-proofs"]
+	path = aragon/evm-storage-proofs
+	url = git@github.com:aragon/evm-storage-proofs.git
