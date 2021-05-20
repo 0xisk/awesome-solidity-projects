@@ -28,3 +28,6 @@
 [submodule "aragon/protocol"]
 	path = aragon/protocol
 	url = git@github.com:aragon/protocol.git
+[submodule "aragon/aragon-factory"]
+	path = aragon/aragon-factory
+	url = git@github.com:aragon/aragon-factory.git
