@@ -22,3 +22,6 @@
 [submodule "aragon/aragonOS"]
 	path = aragon/aragonOS
 	url = git@github.com:aragon/aragonOS.git
+[submodule "aragon/dao-templates"]
+	path = aragon/dao-templates
+	url = git@github.com:aragon/dao-templates.git
