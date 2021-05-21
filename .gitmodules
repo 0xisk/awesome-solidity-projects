@@ -88,3 +88,6 @@
 [submodule "compound-finance/autonomous-proposals"]
 	path = compound-finance/autonomous-proposals
 	url = git@github.com:compound-finance/autonomous-proposals.git
+[submodule "compound-finance/open-oracle"]
+	path = compound-finance/open-oracle
+	url = git@github.com:compound-finance/open-oracle.git
