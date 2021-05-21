@@ -79,3 +79,6 @@
 [submodule "uniswap/advanced-weth"]
 	path = uniswap/advanced-weth
 	url = git@github.com:Uniswap/advanced-weth.git
+[submodule "compound-finance/gateway"]
+	path = compound-finance/gateway
+	url = git@github.com:compound-finance/gateway.git
