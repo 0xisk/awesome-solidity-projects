@@ -82,3 +82,6 @@
 [submodule "compound-finance/gateway"]
 	path = compound-finance/gateway
 	url = git@github.com:compound-finance/gateway.git
+[submodule "compound-finance/compound-protocol"]
+	path = compound-finance/compound-protocol
+	url = git@github.com:compound-finance/compound-protocol.git
