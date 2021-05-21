@@ -1,4 +1,6 @@
 # Aragon
+Organizations of the future
+
 https://aragon.org
 
 <p align='center'>
