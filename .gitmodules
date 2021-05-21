@@ -73,3 +73,6 @@
 [submodule "uniswap/merkle-distributor"]
 	path = uniswap/merkle-distributor
 	url = git@github.com:Uniswap/merkle-distributor.git
+[submodule "uniswap/governance"]
+	path = uniswap/governance
+	url = git@github.com:Uniswap/governance.git
