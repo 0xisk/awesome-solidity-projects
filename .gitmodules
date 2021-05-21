@@ -70,3 +70,6 @@
 [submodule "uniswap/uniswap-v2-periphery"]
 	path = uniswap/uniswap-v2-periphery
 	url = git@github.com:Uniswap/uniswap-v2-periphery.git
+[submodule "uniswap/merkle-distributor"]
+	path = uniswap/merkle-distributor
+	url = git@github.com:Uniswap/merkle-distributor.git
