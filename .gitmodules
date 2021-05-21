@@ -58,3 +58,6 @@
 [submodule "uniswap/uniswap-v3-periphery"]
 	path = uniswap/uniswap-v3-periphery
 	url = git@github.com:Uniswap/uniswap-v3-periphery.git
+[submodule "uniswap/uniswap-v3-core"]
+	path = uniswap/uniswap-v3-core
+	url = git@github.com:Uniswap/uniswap-v3-core.git
