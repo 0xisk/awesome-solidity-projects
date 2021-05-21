@@ -76,3 +76,6 @@
 [submodule "uniswap/governance"]
 	path = uniswap/governance
 	url = git@github.com:Uniswap/governance.git
+[submodule "uniswap/advanced-weth"]
+	path = uniswap/advanced-weth
+	url = git@github.com:Uniswap/advanced-weth.git
