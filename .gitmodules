@@ -85,3 +85,6 @@
 [submodule "compound-finance/compound-protocol"]
 	path = compound-finance/compound-protocol
 	url = git@github.com:compound-finance/compound-protocol.git
+[submodule "compound-finance/autonomous-proposals"]
+	path = compound-finance/autonomous-proposals
+	url = git@github.com:compound-finance/autonomous-proposals.git
