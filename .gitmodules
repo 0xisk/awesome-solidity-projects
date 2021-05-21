@@ -67,3 +67,6 @@
 [submodule "uniswap/uniswap-v2-core"]
 	path = uniswap/uniswap-v2-core
 	url = git@github.com:Uniswap/uniswap-v2-core.git
+[submodule "uniswap/uniswap-v2-periphery"]
+	path = uniswap/uniswap-v2-periphery
+	url = git@github.com:Uniswap/uniswap-v2-periphery.git
