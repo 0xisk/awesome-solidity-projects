@@ -55,3 +55,6 @@
 [submodule "aragon/signature-registry"]
 	path = aragon/signature-registry
 	url = git@github.com:aragon/signature-registry.git
+[submodule "uniswap/uniswap-v3-periphery"]
+	path = uniswap/uniswap-v3-periphery
+	url = git@github.com:Uniswap/uniswap-v3-periphery.git
