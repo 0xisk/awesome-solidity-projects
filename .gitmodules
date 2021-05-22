@@ -97,3 +97,6 @@
 [submodule "0x-project/VDF"]
 	path = 0x-project/VDF
 	url = git@github.com:0xProject/VDF.git
+[submodule "0x-project/0x-monorepo"]
+	path = 0x-project/0x-monorepo
+	url = git@github.com:0xProject/0x-monorepo.git
