@@ -94,3 +94,6 @@
 [submodule "0x-project/protocol"]
 	path = 0x-project/protocol
 	url = git@github.com:0xProject/protocol.git
+[submodule "0x-project/VDF"]
+	path = 0x-project/VDF
+	url = git@github.com:0xProject/VDF.git
