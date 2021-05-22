@@ -91,3 +91,6 @@
 [submodule "compound-finance/open-oracle"]
 	path = compound-finance/open-oracle
 	url = git@github.com:compound-finance/open-oracle.git
+[submodule "0x-project/protocol"]
+	path = 0x-project/protocol
+	url = git@github.com:0xProject/protocol.git
