@@ -5,7 +5,7 @@
 
 Indexing awesome Smart-contract projects implemented on top of Ethereum
 
-image::https://cdn.discordapp.com/icons/595666850260713488/a_ea9e6d5f14867dbb9ce93fabc325870b.gif[Ethereum, align="center"]
+image::https://cdn.discordapp.com/icons/595666850260713488/a_ea9e6d5f14867dbb9ce93fabc325870b.gif[Ethereum, align="right"]
 
 == dydx-protocol
 The Protocol for Decentralized Margin Trading & Derivatives
