@@ -100,3 +100,6 @@
 [submodule "0x-project/0x-monorepo"]
 	path = 0x-project/0x-monorepo
 	url = git@github.com:0xProject/0x-monorepo.git
+[submodule "merkle-blue/tokenmint"]
+	path = merkle-blue/tokenmint
+	url = https://github.com/MerkleBlue/tokenmint
