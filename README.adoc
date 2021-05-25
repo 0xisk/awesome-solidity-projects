@@ -1,4 +1,4 @@
-= Awesome Smartc-Contracts OpenSource Projects
+= Awesome Smart-Contracts OpenSource Projects
 :hide-uri-scheme:
 :toc: 
 :toclevels: 4 
@@ -62,6 +62,8 @@ A Solidity implementation of a VDF verifier contract.
 - VerifierTesting.sol
 
 
+== Aragon
+
 
 == dydx-protocol
 The Protocol for Decentralized Margin Trading & Derivatives
@@ -82,3 +84,22 @@ Ethereum Smart Contracts and TypeScript client library for the dYdX Perpetual Co
 dYdX V2 Margin Trading Protocol. 
 
 
+== rena-finance
+​RenaSwap is a one-sided automated market maker-based decentralized token swap protocol which utilizes token wrappers, buy-only liquidity pairs, and circulating asset flows to amplify volume for all tokens integrated with RenaSwap. We call this Volume Aggregation as it gives new life to all participating projects in the form of increased volume, which attracts more liquidity, increasing incentives for Liquidity Providers. Its specialized design utilizes RENA, our deflationary ERC-20 utility token, to tap into the numerous capital flows moving through interoperating DEXs and share a percentage of those flows with ETH/RENA liquidity providers.
+
+- https://rena.finance/
+- https://github.com/Rena-Finance
+
+=== Rena
+
+- Claim.sol
+- FeeDistributor.sol
+- LPStaking.sol
+- Migrations.sol
+- Rebalancer.sol
+- Rena.sol
+- RenaswapV1Factory.sol
+- RenaswapV1Pair.sol
+- RenaswapV1Router.sol
+- RenaswapV1Wrapper.sol
+- ReservationEvent.sol
