@@ -112,3 +112,6 @@
 [submodule "dydx-protocol/perpetual"]
 	path = dydx-protocol/perpetual
 	url = git@github.com:dydxprotocol/perpetual.git
+[submodule "dydx-protocol/solo"]
+	path = dydx-protocol/solo
+	url = git@github.com:dydxprotocol/solo.git
