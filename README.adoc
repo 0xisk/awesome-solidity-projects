@@ -7,6 +7,62 @@ Indexing awesome Smart-contract projects implemented on top of Ethereum
 
 image::https://cdn.discordapp.com/icons/595666850260713488/a_ea9e6d5f14867dbb9ce93fabc325870b.gif[Ethereum, align="center"]
 
+== 0x-project
+The Protocol for Trading Tokens
+
+- https://0x.org/
+- https://github.com/0xProject
+
+=== 0x-monorepo
+0x protocol monorepo - includes our smart contracts and many developer tools
+
+- asset-proxy
+- broker
+- coordinator
+- dev-utils
+- erc1155
+- erc20
+- erc721
+- exchange-forwarder
+- exchange-libs
+- exchange
+- extensions
+- integrations
+- multisig
+- staking
+- test-utils
+- utils
+- zero-ex
+
+=== protocol
+This repository is a monorepo including the 0x protocol smart contracts and numerous developer tools. Each public sub-package is independently published to NPM.
+
+- asset-proxy
+- broker
+- coordinator
+- dev-utils
+- erc1155
+- erc20
+- erc721
+- exchange-forwarder
+- exchange-libs
+- exchange
+- extensions
+- integrations
+- multisig
+- staking
+- test-utils
+- utils
+- zero-ex
+
+=== VDF
+A Solidity implementation of a VDF verifier contract.
+
+- Verifier.sol
+- VerifierTesting.sol
+
+
+
 == dydx-protocol
 The Protocol for Decentralized Margin Trading & Derivatives
 
