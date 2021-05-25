@@ -115,3 +115,6 @@
 [submodule "dydx-protocol/solo"]
 	path = dydx-protocol/solo
 	url = git@github.com:dydxprotocol/solo.git
+[submodule "rena-finance/Rena"]
+	path = rena-finance/Rena
+	url = git@github.com:Rena-Finance/Rena.git
