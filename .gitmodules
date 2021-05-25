@@ -109,3 +109,6 @@
 [submodule "dydx-protocol/exchange-wrappers"]
 	path = dydx-protocol/exchange-wrappers
 	url = git@github.com:dydxprotocol/exchange-wrappers.git
+[submodule "dydx-protocol/perpetual"]
+	path = dydx-protocol/perpetual
+	url = git@github.com:dydxprotocol/perpetual.git
