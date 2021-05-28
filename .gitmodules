@@ -118,3 +118,6 @@
 [submodule "rena-finance/Rena"]
 	path = rena-finance/Rena
 	url = git@github.com:Rena-Finance/Rena.git
+[submodule "0xsequence/niftyswap"]
+	path = 0xsequence/niftyswap
+	url = git@github.com:0xsequence/niftyswap.git
