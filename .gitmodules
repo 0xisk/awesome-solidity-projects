@@ -124,3 +124,6 @@
 [submodule "0xsequence/wallet-contracts"]
 	path = 0xsequence/wallet-contracts
 	url = git@github.com:0xsequence/wallet-contracts.git
+[submodule "0xsequence/erc20-meta-token"]
+	path = 0xsequence/erc20-meta-token
+	url = git@github.com:0xsequence/erc20-meta-token.git
