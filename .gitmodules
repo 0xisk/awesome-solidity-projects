@@ -127,3 +127,6 @@
 [submodule "0xsequence/erc20-meta-token"]
 	path = 0xsequence/erc20-meta-token
 	url = git@github.com:0xsequence/erc20-meta-token.git
+[submodule "0xsequence/erc-1155"]
+	path = 0xsequence/erc-1155
+	url = git@github.com:0xsequence/erc-1155.git
