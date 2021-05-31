@@ -1,7 +1,7 @@
 = Awesome Smart-Contracts OpenSource Projects
 :hide-uri-scheme:
 :toc: 
-:toclevels: 2
+:toclevels: 5
 
 Indexing awesome Smart-contract projects implemented on top of Ethereum
 
@@ -154,6 +154,59 @@ Sequence, Ethereum Smart Wallet Contracts
 - https://github.com/0xsequence/wallet-contracts/blob/master/audits/sequence_quantstamp_audit_feb_2021.pdf[sequence_quantstamp_audit_feb_2021.pdf]
 
 == Aragon
+Organizations of the future
+
+- https://aragon.org/
+- https://github.com/aragon
+
+=== apm
+(Aragon 1) Aragon Package Manager
+
+=== aragon-apps
+(Aragon 1) Aragon apps developed by Aragon Core Devs (smart contracts + webapps)
+
+====  Apps
+
+This monorepo contains the following apps:
+
+===== Agent 
+Hold assets and perform actions from Aragon organizations.
+
+- https://github.com/aragon/aragon-apps/blob/master/apps/agent/contracts/Agent.sol[Agent.sol]
+
+===== Agreement
+Govern organizations through a subjective rules.
+
+Aragon Agreements allow organization actions to be governed by a subjective set of rules, that cannot be encoded into smart contracts.
+
+Agreements are the bridge between an Aragon organization and Aragon Court. Organizations with an Agreement can become optimistic: most actions should be easily executed and challenged exceptionally, instead of forcing each user to go through a tedious approval process every time they want to perform an action.
+
+- https://github.com/aragon/aragon-apps/blob/master/apps/agreement/contracts/Agreement.sol[Agreement.sol]
+
+===== Finance 
+Send payments and manage expenses with budgeting.
+
+- https://github.com/aragon/aragon-apps/blob/master/apps/finance/contracts/Finance.sol[Finance.sol]
+
+===== **Token Manager**
+Manages organization tokens.
+
+- https://github.com/aragon/aragon-apps/blob/master/apps/token-manager/contracts/TokenManager.sol[TokenManager.sol]
+
+===== Vault
+Securely owns and manages tokens on behalf of a DAO.
+
+- https://github.com/aragon/aragon-apps/blob/master/apps/vault/contracts/Vault.sol[Vault.sol]
+
+===== Disputable Voting
+Create disputable votes that execute actions on behalf of token holders.
+
+- https://github.com/aragon/aragon-apps/blob/master/apps/voting-disputable/contracts/DisputableVoting.sol[DisputableVoting.sol]
+
+===== Voting
+Create votes that execute actions on behalf of token holders.
+
+- https://github.com/aragon/aragon-apps/blob/master/apps/voting/contracts/Voting.sol[Voting.sol]
 
 
 == dydx-protocol
